@@ -20,7 +20,7 @@ public class Program {
 		System.out.printf("AREA = %.2f\n", rec.area());
 		System.out.printf("PERIMETER = %.2f\n", rec.perimeter());
 		System.out.printf("DIAGONAL = %.2f\n", rec.diagonal());
-		
+		sc.close();
 	}
 
 }
