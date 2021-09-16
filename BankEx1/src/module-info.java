@@ -1,0 +1,2 @@
+module bankEx1 {
+}
